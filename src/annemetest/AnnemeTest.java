@@ -24,7 +24,7 @@ public class AnnemeTest
         //User input//
         
         typeOfCar = JOptionPane.showInputDialog("What type of car do you have?");
-//        String carPrice = JOptionPane.showInputDialog("How much is your car worth?");
+        String carPrice = JOptionPane.showInputDialog("How much is your car worth?");
         //howMuchTheCarIsWorth = Double.parseDouble(typeOfCar);
 //        
 //        
@@ -32,7 +32,7 @@ public class AnnemeTest
                                             "\nThe Price is: " + howMuchTheCarIsWorth +
                                             "\n\n\nThanks for using this application!");
         
-        //System.out.println(carPrice);
+        System.out.println(carPrice);
                
 //       for(int i = 0 ; i < 4; i++)
 //       {
