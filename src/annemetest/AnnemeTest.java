@@ -33,6 +33,8 @@ public class AnnemeTest
                                             "\n\n\nThanks for using this application!");
         
         System.out.println(carPrice);
+        
+        System.out.print("GitHub!");
                
 //       for(int i = 0 ; i < 4; i++)
 //       {
